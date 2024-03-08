@@ -1,13 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+
+import App, { Appjs } from './App';
 import reportWebVitals from './reportWebVitals';
+import { Myproject } from './Myproject';
+import Scorboard from './Scorboard';
+import Example from '../src/Example';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Scorboard/>
+
   </React.StrictMode>
 );
 

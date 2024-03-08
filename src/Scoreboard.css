@@ -1,0 +1,183 @@
+.header{
+    width:100%;
+    height:100px;
+    display:flex;
+    justify-content: space-between;
+    border: 2px solid yellow;
+    background-color: #F9CD05;
+    position:sticky;
+     
+    
+}
+body{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    background-color: rgba(128, 126, 126, 0.201);
+   
+
+}
+.scoreboard{
+    margin-left: 20px;
+
+}
+h3{
+    margin-left: 20px;
+}
+
+.image{
+    background-color: yellow;
+}
+.main{
+    background-image: url(./Assets/cskimage.jpg);
+    width:800px;
+ 
+    display:flex;
+    justify-content: space-between;
+    text-align: justify;
+    font-size: large;
+    font-weight: bold;
+    color: navy;
+    
+}
+.sidebarr{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sidebar{
+   line-height: 2.7rem;
+   
+   
+  
+}
+.sidebar2{
+    line-height: 2.7rem;
+    margin-right: 20px  ;
+   
+   
+ }
+.role{
+    
+    line-height: 2.7rem;   
+}
+.Parent{
+    width:100%;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.strike{
+  
+   background-blend-mode: overlay;
+    width:850px; 
+    
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    height:548px;
+    background-color:navy;
+    background-image: url(./Assets/t20-world-cup-cricket-championship-poster-template-brochure-decorated-flyer-banner-design_460848-15838.jpg);
+    color:white;
+    
+    
+}
+.striker{
+    margin-left:20px;
+    
+}
+.nonstriker{
+    margin-left: 20px;
+}
+button{
+    width:70px;
+    height: 37px;
+    background-color: #F9CD05;
+    box-shadow: 10px #F9CD05;
+}
+.yet{
+    margin-left:20px;
+    background-color: #F9CD05;
+    color:black;
+    height: 80px;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+}
+.parent2{
+    width:100%;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.main2{
+    background-image: url(./Assets/abstract-cricket-background_Xy2VMW__PMNW.jpg);
+    width:800px;
+    display:flex;
+    justify-content: space-between;
+    text-align: justify;
+    font-size: large;
+    font-weight: bold;
+    
+
+}
+.div{
+    margin-right: 20px;
+}
+.description{
+    color:white;
+    background-color: navy;
+    
+}
+.strikebowler{
+    width:850px; 
+    
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    height:150px;
+    background-color: rgba(128, 126, 126, 0.201);
+}
+.bowler{
+    margin-left: 20px;
+}
+.div{
+    margin-right: 20px;
+    font-size: 21px;
+}
+.div1{
+    margin-left: 20px;
+    font-size: 21px;
+
+}
+p{
+    width:15px;
+    height: 15px;
+    background-color:#F9CD05;
+    border-radius: 15px;
+}
+h2{
+    font-size: 18px;
+    margin-left: 20px;
+    
+}
+.name1{
+    margin-right: 20px;
+}
+.name{
+    margin-left: 20px;
+}
+.extras{
+    margin-left: 20px;
+}
+.imgd{
+    background-image:url(./Assets/CSK-v-MI.jpg);
+    transform: scaleX(1);
+}
+.bow{
+    margin-left: 20px;
+}
+h1{
+    background-color:url(./Assets/CSK-v-MI.jpg);
+}

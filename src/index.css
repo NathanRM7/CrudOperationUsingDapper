@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.App{
+  background-color: antiquewhite;
+}
+button{
+  width:70px;height:70px;
+  background-color: cadetblue;
+  color:black;
+  border-radius: 20px;
+}
+.space{
+  height:30px;
+}
+div button{
+  margin-left:10px;
+}
+.main{
+   display: flex;
+   justify-content: space-around;
+}
+img{
+  width:200px;
+  height: 100px;
+}
+header{
+background-image: -moz-linear-gradient(#00A65D,#F9CD05);
+}
+h1{
+ color:Orange}
+ 
